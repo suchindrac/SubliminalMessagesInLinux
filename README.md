@@ -3,7 +3,6 @@
 ## Summary:
 
 This is a small shell script to flash subliminal messages (text) on a Linux Desktop. It uses osd_cat to flash the messages on the screen, while text is processed using a binary called shuf.
- beat frequency.
 
 ## Execution:
 
